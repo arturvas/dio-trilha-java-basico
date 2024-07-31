@@ -1,3 +1,5 @@
+package src;
+
 public class TiposVariaveis {
     public static void main(String[] args) {
         double salario = 5500;
