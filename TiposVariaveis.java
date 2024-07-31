@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class TiposVariaveis {
+public class TiposVariaveis {
+    public static void main(String[] args) {
+        System.out.println("Hello my friend!");
+    }
 }
